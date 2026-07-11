@@ -1,4 +1,4 @@
-Topics i have covered so for is:
+Topics i have covered so for are:
 - Perceptron
 - Multilayer Perceptron
 - Forward and Backward propagation
@@ -10,7 +10,7 @@ Topics i have covered so for is:
 - Basic CNN
 - Transfer learning
 
-This repo is not complete yet. Remaining ropics are:
+This repo is not complete yet. Remaining topics are:
 - RNN
 - LSTM
 - GRU
