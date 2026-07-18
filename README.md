@@ -11,7 +11,7 @@ Topics i have covered so for are:
 - Transfer learning
 
 This repo is not complete yet. Remaining topics are:
-- RNN
+- Embedding
 - GRU
 - Transformer
 and some more topics.
