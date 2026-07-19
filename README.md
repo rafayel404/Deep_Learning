@@ -8,10 +8,12 @@ Topics i have covered so for are:
 - Activation functions
 - Vanishing gradients
 - Basic CNN
+- RNN,LSTM,GRU
 - Transfer learning
+- GRU
+- Depp/Bidirectional RNN,LSTM,GRU
 
 This repo is not complete yet. Remaining topics are:
 - Embedding
-- GRU
 - Transformer
 and some more topics.
